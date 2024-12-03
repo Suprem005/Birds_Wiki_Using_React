@@ -37,7 +37,7 @@ const App = () => {
 
       <Bird
         image="https://www.allaboutbirds.org/guide/assets/og/615440810-1200px.jpg"
-        name="Pheonix"
+        name="BlueBird"
         about="The bluebirds are a North American group of medium-sized, mostly insectivorous or omnivorous birds in the order of Passerines in the genus Sialia of the thrush family."
         aboutMore="Bluebirds are one of the few thrush genera in the Americas. Bluebirds lay an average of 4 to 6 eggs per clutch."
       />
