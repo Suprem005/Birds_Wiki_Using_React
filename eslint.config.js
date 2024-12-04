@@ -35,6 +35,8 @@ export default [
       ],
       "no-unused-vars": "off",
       "react/prop-types": "off",
+      "no-nonoctal-decimal-escape": "off",
+      "no-useless-escape": "off",
     },
   },
 ];

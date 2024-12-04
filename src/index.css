@@ -19,6 +19,9 @@ body {
 
 h1 {
   border: 10px;
+  display: flex;
+  justify-content: center;
+  font-family: "cursive";
 }
 
 @media (prefers-color-scheme: light) {
@@ -27,6 +30,6 @@ h1 {
     background-color: #1c032e;
   }
   a:hover {
-    color: #747bff;
+    color: #8388d8;
   }
 }
